@@ -8,12 +8,11 @@ hBgSnow插件Demo简介：
 将下面三部分代码放入对应位置，即可运行。
 
 html:
+ &lt;div id="snowContainer"&gt;
+ &lt;canvas id="canvas"&gt;&lt;/canvas&gt; 
+ &lt;/div&gt;
 
- <div id="snowContainer">
- <canvas id="canvas"></canvas> 
- </div>
 css:
-
 
   #snowContainer{
     background-color: black;
