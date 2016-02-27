@@ -6,18 +6,6 @@ hBgSnow插件Demo简介：
 
 将下面三部分代码放入对应位置，即可运行。
 
-  #snowContainer{
-    background-color: black;
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-  }
-
-  #canvas{
-    position: fixed;
-  }
-
 javascript:
 
 
@@ -64,4 +52,4 @@ javascript:
 
 运行后若发现，没有效果，请查看dom的z-index,检查canvas 是否被其他dom元素遮挡。这是一个jQuery插件，使用时需提前引入jQuery文件。
 
-转载请注明来源，<a src="h-five.com" title="默@语">默@语：www.h-five.com</a>
+详情见<a src="http://www.h-five.com/HLpost/119.html" title="默@语">默@语：http://www.h-five.com/HLpost/119.html</a>
