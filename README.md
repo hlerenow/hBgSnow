@@ -1,4 +1,3 @@
-# hBgSnow
 hBgSnow插件Demo简介：
 
 利用html5的canvas标签制作的一款jQuery动态背景插件,彩色小球无规则运动，可以跟随鼠标移动，最后消失，但是小球总数不会改变，使用简单、方便，压缩后体积只有4k.
@@ -6,13 +5,6 @@ hBgSnow插件Demo简介：
 使用方法：
 
 将下面三部分代码放入对应位置，即可运行。
-
-html:
- &lt;div id="snowContainer"&gt;
- &lt;canvas id="canvas"&gt;&lt;/canvas&gt; 
- &lt;/div&gt;
-
-css:
 
   #snowContainer{
     background-color: black;
@@ -71,3 +63,5 @@ javascript:
 注意事项：
 
 运行后若发现，没有效果，请查看dom的z-index,检查canvas 是否被其他dom元素遮挡。这是一个jQuery插件，使用时需提前引入jQuery文件。
+
+转载请注明来源，<a src="h-five.com" title="默@语">默@语：www.h-five.com</a>
