@@ -52,4 +52,4 @@ javascript:
 
 运行后若发现，没有效果，请查看dom的z-index,检查canvas 是否被其他dom元素遮挡。这是一个jQuery插件，使用时需提前引入jQuery文件。
 
-详情见<a src="http://www.h-five.com/HLpost/119.html" title="默@语">默@语：http://www.h-five.com/HLpost/119.html</a>
+详情见<a src="http://www.h-five.com/HLpost/119.html" title="默识者">默识者：http://www.h-five.com/HLpost/119.html</a>
